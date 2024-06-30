@@ -1,4 +1,8 @@
-# React + Vite
+#dont forget to npm install 
+
+
+# React + Vite + tailwind css 
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
